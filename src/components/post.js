@@ -1,3 +1,4 @@
+  
 function Post(props) {
   const { name,url} = props.data;
   return (
